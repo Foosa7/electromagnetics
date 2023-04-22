@@ -38,6 +38,4 @@ SK2300 Optical Physics 6 credits will be replaced by SK2303 7,5 credits from aut
 -   [Laser Spectroscopy (SK2800) 8.0 credits](https://www.kth.se/student/kurser/kurs/SK2800?l=en)
 -   [Fiber-optical Communication (SK2811) 7.5 credits](https://www.kth.se/student/kurser/kurs/SK2811?l=en)
 -   [Light-matter Interaction (SK2902) 7.5 credits](https://www.kth.se/student/kurser/kurs/SK2902?l=en)
-ewe
-this is  BACKUP
-fdfds
+

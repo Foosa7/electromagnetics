@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "7702bb695d72bf1f",
+        "id": "6bdc7a3c585ca509",
         "type": "tabs",
         "children": [
           {
-            "id": "b2344084d6db940f",
+            "id": "8f138d6b8a21dad7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "KTH/Coursework.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "64c419adff8daa66",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "KTH/KTH Kanban.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "KTH/KTH Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "KTH/KTH Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "KTH/KTH Kanban.md"
               }
             }
           },
@@ -138,11 +149,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,20 +165,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2344084d6db940f",
+  "active": "64c419adff8daa66",
   "lastOpenFiles": [
-    "Semiconductor Physics",
+    "Ground rules.md",
+    "KTH/Coursework.md",
+    "KTH/KTH Kanban.md",
     "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
+    "KTH/KTH Canvas.canvas",
+    "Untitled.md",
+    "README.md",
+    "Mathematics",
+    "KTH/Year 2",
+    "KTH/Year 1",
+    "Semiconductor Physics",
     "Photonics/Metamaterials/How to get into metamaterials industry.md",
     "Photonics/Silicon Photonics",
     "Photonics/Photonics.canvas",
     "Photonics/Metamaterials",
     "Photonics",
     "Manufacturing",
-    "KTH/KTH.canvas",
-    "KTH/Coursework.md",
-    "KTH",
-    "README.md",
-    "Untitled.md"
+    "KTH"
   ]
 }
