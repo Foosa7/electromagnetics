@@ -2,5 +2,7 @@
   "obsidian-git",
   "obsidian-kanban",
   "obsidian-tasks-plugin",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "obsidian-annotator",
+  "dataview"
 ]

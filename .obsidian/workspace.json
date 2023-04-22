@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6bdc7a3c585ca509",
+        "id": "04b9298de52a23b2",
         "type": "tabs",
         "children": [
           {
-            "id": "64c419adff8daa66",
+            "id": "b308440348ab601e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,6 +17,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "8dbb8bd35ac6684c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -150,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 586.5,
-    "collapsed": true
+    "width": 631.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,26 +170,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64c419adff8daa66",
+  "active": "b308440348ab601e",
   "lastOpenFiles": [
-    "KTH/KTH Tasks.md",
-    "KTH/KTH Canvas.canvas",
-    "KTH/KTH Kanban.md",
     "KTH/Coursework.md",
-    "Untitled 1.md",
-    "Ground rules.md",
-    "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
+    "Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
+    "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
+    "Books/Rumpf, Raymond C. - Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)-Artech House (2022).pdf",
+    "KTH/KTH Canvas.canvas",
+    "How to doc.md",
     "README.md",
+    "Books/Donald A. Gurnett, Amitava Bhattacharjee - Introduction to Plasma Physics_ With Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017).pdf",
+    "Books",
+    "New folder",
+    "KTH/KTH Tasks.md",
+    "KTH/KTH Kanban.md",
+    "Untitled 1.md",
+    "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
     "Mathematics",
     "KTH/Year 2",
     "KTH/Year 1",
     "Semiconductor Physics",
     "Photonics/Metamaterials/How to get into metamaterials industry.md",
-    "Photonics/Silicon Photonics",
-    "Photonics/Photonics.canvas",
-    "Photonics/Metamaterials",
-    "Photonics",
-    "Manufacturing",
-    "KTH"
+    "Photonics/Photonics.canvas"
   ]
 }

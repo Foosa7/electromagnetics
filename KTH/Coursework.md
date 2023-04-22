@@ -1,11 +1,18 @@
 ## Year 1
 #### Mandatory courses for all tracks
 
--   [Theory and Methodology of Science with Applications (Natural and Technological Science) (AK2036) 7.5 credits](https://www.kth.se/student/kurser/kurs/AK2036?l=en)
+-   [Theory and Methodology of Science with Applications (Natural and Technological Science) (AK2036) 7.5 credits](https://www.kth.se/student/kurser/kurs/AK2036?l=en) 
 -   [Plasma Physics (EF2200) 6.0 credits](https://www.kth.se/student/kurser/kurs/EF2200?l=en)
--   [The Sustainable Electrophysics Engineer (EF2222) 3.0 credits](https://www.kth.se/student/kurser/kurs/EF2222?l=en)
--   [Classical Electrodynamics (EI2405) 7.5 credits](https://www.kth.se/student/kurser/kurs/EI2405?l=en)
+	- Introduction to Plasma Physics 
+-   [The Sustainable Electrophysics Engineer (EF2222) 3.0 credits](https://www.kth.se/student/kurser/kurs/EF2222?l=en) - No prescribed book
+-   [Classical Electrodynamics (EI2405) 7.5 credits](https://www.kth.se/student/kurser/kurs/EI2405?l=en) 
+	- Introduction to Electrodynamics by David J. Griffiths
+	- Classical Electrodynamics by John David Jackson
+	- A Course in Classical Electrodynamics by Ulrich Zürcher
 -   [Electrotechnical Modelling (EI2433) 7.5 credits](https://www.kth.se/student/kurser/kurs/EI2433?l=en)
+	- Applied Electromagnetics Using QuickField & MATLAB by Nathan Ida
+	- Partial Differential Equations for Scientists and Engineers by Stanley J. Farlow
+
 
 ### Mandatory courses
 
