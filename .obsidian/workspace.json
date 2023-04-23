@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3669de6f30ee49fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8dbb8bd35ac6684c",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KTH/Coursework.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KTH/Coursework.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KTH/Coursework.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 631.5
+    "width": 1269.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,17 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b308440348ab601e",
+  "active": "3669de6f30ee49fd",
   "lastOpenFiles": [
+    "Manufacturing/README.md",
     "KTH/Coursework.md",
-    "Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
-    "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
+    "KTH/Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
+    "KTH/Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
     "Books/Rumpf, Raymond C. - Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)-Artech House (2022).pdf",
     "KTH/KTH Canvas.canvas",
     "How to doc.md",
     "README.md",
     "Books/Donald A. Gurnett, Amitava Bhattacharjee - Introduction to Plasma Physics_ With Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017).pdf",
-    "Books",
+    "KTH/Books",
     "New folder",
     "KTH/KTH Tasks.md",
     "KTH/KTH Kanban.md",
