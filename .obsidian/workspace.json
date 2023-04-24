@@ -185,6 +185,7 @@
   },
   "active": "3669de6f30ee49fd",
   "lastOpenFiles": [
+    "computational-em/FDTD/transmission-line.py",
     "computational-em/FDTD/version0.1.py",
     "computational-em/FDTD",
     "computational-em/pytorch-basics/FDTD",
@@ -195,7 +196,6 @@
     "computational-em/pytorch-basics",
     "computational-em/pi_nth_estimate_parallelised_batch.py",
     "computational-em/pi_nth-estimate-parallelised.py",
-    "computational-em/pi_nth_estimate.py",
     "Photonics/Photonics.canvas",
     "Manufacturing/README.md",
     "KTH/KTH Canvas.canvas",
