@@ -8,35 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b308440348ab601e",
+            "id": "64608da015fe048e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KTH/Coursework.md",
+                "file": "Photonics/README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3669de6f30ee49fd",
+            "id": "7fdf3fe6f253fe0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to doc.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "8dbb8bd35ac6684c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
@@ -90,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -106,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to doc.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,12 +111,20 @@
             }
           },
           {
+            "id": "e59a2d45024944d0",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
             "id": "89c72202ab81ed4f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to doc.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to doc.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md"
               }
             }
           },
@@ -167,11 +168,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 787.5
+    "width": 993.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +181,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "3669de6f30ee49fd",
+  "active": "49f4578146f7c278",
   "lastOpenFiles": [
+    "Photonics/README.md",
+    "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+    "KTH/Coursework.md",
+    "How to doc.md",
+    "Photonics/Intro to Optoelectronics and Photonics",
+    "Introduction to Optoelectronics and PhotonicsUntitled",
     "computational-em/FDTD/transmission-line.py",
     "computational-em/FDTD/version0.1.py",
     "computational-em/FDTD",
@@ -193,15 +201,10 @@
     "computational-em/pytorch-basics/pi_nth-estimate-parallelised.py",
     "computational-em/pytorch-basics/pi_nth_estimate.py",
     "computational-em/pytorch-basics/pi_nth_estimate_parallelised_batch.py",
-    "computational-em/pytorch-basics",
-    "computational-em/pi_nth_estimate_parallelised_batch.py",
-    "computational-em/pi_nth-estimate-parallelised.py",
     "Photonics/Photonics.canvas",
     "Manufacturing/README.md",
     "KTH/KTH Canvas.canvas",
-    "KTH/Coursework.md",
     "README.md",
-    "How to doc.md",
     "KTH/KTH Tasks.md",
     "KTH/KTH Kanban.md",
     "Untitled 1.md",
