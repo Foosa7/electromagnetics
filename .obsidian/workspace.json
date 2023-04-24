@@ -171,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 657.5
+    "width": 787.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,26 +185,27 @@
   },
   "active": "3669de6f30ee49fd",
   "lastOpenFiles": [
+    "computational-em/FDTD/version0.1.py",
+    "computational-em/FDTD",
+    "computational-em/pytorch-basics/FDTD",
+    "computational-em/pytorch-basics/pytorch-usage.py",
+    "computational-em/pytorch-basics/pi_nth-estimate-parallelised.py",
+    "computational-em/pytorch-basics/pi_nth_estimate.py",
+    "computational-em/pytorch-basics/pi_nth_estimate_parallelised_batch.py",
+    "computational-em/pytorch-basics",
+    "computational-em/pi_nth_estimate_parallelised_batch.py",
+    "computational-em/pi_nth-estimate-parallelised.py",
+    "computational-em/pi_nth_estimate.py",
     "Photonics/Photonics.canvas",
     "Manufacturing/README.md",
     "KTH/KTH Canvas.canvas",
     "KTH/Coursework.md",
-    "KTH/Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
     "README.md",
-    "KTH/Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
-    "Books/Rumpf, Raymond C. - Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)-Artech House (2022).pdf",
     "How to doc.md",
-    "Books/Donald A. Gurnett, Amitava Bhattacharjee - Introduction to Plasma Physics_ With Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017).pdf",
-    "KTH/Books",
-    "New folder",
     "KTH/KTH Tasks.md",
     "KTH/KTH Kanban.md",
     "Untitled 1.md",
     "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
-    "Mathematics",
-    "KTH/Year 2",
-    "KTH/Year 1",
-    "Semiconductor Physics",
     "Photonics/Metamaterials/How to get into metamaterials industry.md"
   ]
 }
