@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e444a28659e7fd39","x":-220,"y":-100,"width":245,"height":60,"type":"text","text":"Quantum Mechanics"},
+		{"id":"e160aad0bc9964a6","x":-220,"y":-240,"width":250,"height":60,"type":"text","text":"Material Science"}
+	],
+	"edges":[]
+}

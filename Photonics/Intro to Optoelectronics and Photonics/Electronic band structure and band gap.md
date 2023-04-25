@@ -1,22 +1,28 @@
+[Electronic Band Structure Texas A&M: Intro to Materials MSEN 201](https://youtu.be/ZV8j_W3Qz2I)
 
 ### Individual atoms: Interaction
-- When two electrons interact the wave functions have a constructive and distructive interference
-- Stable lower orbitols do not interact generally, these just add up 1+1
-- The higher level orbitols generally split 
+- When two electrons interact, wave functions have a constructive and distructive interference.
+- Stable lower orbitols do not interact generally, these just add up 1+1.
+- Higher level orbitols generally split to tow different energy levels.
 
 ### Multiple to many atoms
-- When 8x of 3s orbitols interact we'll have 8 different energy levels
-- This model is called LCAO - linear combination of atomic orbitals
-- valance level orbitals have splitting
+- When 8x of 3s orbitols interact we'll have 8 different individual energy levels.
+- This model is called LCAO - linear combination of atomic orbitals.
+- _Valance level orbitals have splitting_
 - Number of orbitals = no of orbitals out
 
 ### Macroscopic object
 - If the seperation of the energy level is so small it's then called a band. Large number of very closely spaced atoms
 - Silicon has both 3s and 3p levels: when combined gives us just two continious band with a small sepration
-	- Valence band 
-	- Eg (Band gap)
 	- Conduction band
+	- Eg (Band gap)
+	- Valence band 
 
-
+Summary
+1. Valence orbitals interact
+2. Number of orbitals in = no of orbitals out
+3. These create condation and valence band
+4. Band is a large number of very closely spaced energy levels
+5. Band structure describes the density and spacing of these energy levels
 
 

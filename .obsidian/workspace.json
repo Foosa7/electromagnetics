@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1c990699c24eddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/QM-101.md"
               }
             }
           },
@@ -209,10 +222,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "d2f3b744d1de3e04",
+  "active": "a1c990699c24eddd",
   "lastOpenFiles": [
-    "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+    "electromagnetics-master.canvas",
+    "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
     "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
+    "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
     "Resources.md",
     "Photonics/README.md",
     "KTH/Coursework.md",
