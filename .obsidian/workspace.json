@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+                "file": "Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+                "file": "Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md"
+                "file": "Resources.md"
               }
             }
           },
@@ -173,12 +173,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "44b111bd18fef184",
+  "active": "a1c990699c24eddd",
   "lastOpenFiles": [
+    "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
     "Assets/Quasi-Fermi-Level.png",
     "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained.md",
     "Assets/HAtomOrbitals.png",
-    "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
     "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
     "orbitals.png",
     "orbitals 2.png",
