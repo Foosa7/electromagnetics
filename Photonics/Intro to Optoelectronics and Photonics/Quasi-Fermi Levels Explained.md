@@ -26,3 +26,4 @@ Come back to this topic tomorrow
 - When this happens the fermi energy is not defined anymore we then define quasi fermi energy as they are both different: quasi fermi energy for holes, quasi fermi energy for electrons.
 - The electron fermi level moves up and the holes one moves down.
 - These quasi fermi levels are _SUPER_ useful in opto electrons so it's important to understand what this is all about. 
+ ![[Quasi-Fermi-Level.png]]
