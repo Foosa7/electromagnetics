@@ -1,1 +1,2 @@
-What's a fermi level?
+## What's a fermi level?
+- In the band diagram 
