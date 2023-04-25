@@ -20,42 +20,6 @@
             }
           },
           {
-            "id": "7fdf3fe6f253fe0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4da0f8d48906f274",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2f3b744d1de3e04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a1c990699c24eddd",
             "type": "leaf",
             "state": {
@@ -68,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -224,10 +188,16 @@
   },
   "active": "a1c990699c24eddd",
   "lastOpenFiles": [
-    "electromagnetics-master.canvas",
-    "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
+    "Assets/HAtomOrbitals.png",
     "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
+    "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
     "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+    "orbitals 2.png",
+    "orbitals 1.png",
+    "orbitals.png",
+    "Assets/orbitals.png",
+    "Assets",
+    "electromagnetics-master.canvas",
     "Resources.md",
     "Photonics/README.md",
     "KTH/Coursework.md",
@@ -241,7 +211,6 @@
     "computational-em/pytorch-basics/pytorch-usage.py",
     "computational-em/pytorch-basics/pi_nth-estimate-parallelised.py",
     "computational-em/pytorch-basics/pi_nth_estimate.py",
-    "computational-em/pytorch-basics/pi_nth_estimate_parallelised_batch.py",
     "Photonics/Photonics.canvas",
     "Manufacturing/README.md",
     "KTH/KTH Canvas.canvas",
