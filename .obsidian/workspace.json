@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -188,10 +187,10 @@
   },
   "active": "a1c990699c24eddd",
   "lastOpenFiles": [
-    "Assets/HAtomOrbitals.png",
     "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
-    "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
     "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+    "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
+    "Assets/HAtomOrbitals.png",
     "orbitals 2.png",
     "orbitals 1.png",
     "orbitals.png",
