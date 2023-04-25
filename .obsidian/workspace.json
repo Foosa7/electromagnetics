@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4da0f8d48906f274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2f3b744d1de3e04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md"
               }
             }
           },
@@ -172,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 993.5
+    "width": 241.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +209,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "49f4578146f7c278",
+  "active": "d2f3b744d1de3e04",
   "lastOpenFiles": [
-    "Photonics/README.md",
     "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
+    "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
+    "Resources.md",
+    "Photonics/README.md",
     "KTH/Coursework.md",
     "How to doc.md",
     "Photonics/Intro to Optoelectronics and Photonics",
