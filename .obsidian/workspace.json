@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "04b9298de52a23b2",
+        "id": "2ba7128f41776f5d",
         "type": "tabs",
         "children": [
           {
-            "id": "a1c990699c24eddd",
+            "id": "e85c89c78a194489",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,12 +154,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 632.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,37 +172,38 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "a1c990699c24eddd",
+  "active": "67a5c246a46d1be7",
   "lastOpenFiles": [
+    "README.md",
+    "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
+    "Books/README.md",
+    "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
+    "Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
+    "Books",
+    "Semiconductor Physics/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
+    "KTH/Coursework.md",
+    "Assets/HAtomOrbitals.png",
+    "Resources.md",
     "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
     "Assets/Quasi-Fermi-Level.png",
     "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained.md",
-    "Assets/HAtomOrbitals.png",
     "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
     "orbitals.png",
     "orbitals 2.png",
     "orbitals 1.png",
-    "Resources.md",
     "Photonics/README.md",
     "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained",
     "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
     "Assets/orbitals.png",
     "Assets",
     "electromagnetics-master.canvas",
-    "KTH/Coursework.md",
     "How to doc.md",
     "Photonics/Intro to Optoelectronics and Photonics",
     "Introduction to Optoelectronics and PhotonicsUntitled",
     "computational-em/FDTD/transmission-line.py",
-    "computational-em/FDTD/version0.1.py",
-    "computational-em/FDTD",
-    "computational-em/pytorch-basics/FDTD",
-    "computational-em/pytorch-basics/pytorch-usage.py",
-    "computational-em/pytorch-basics/pi_nth-estimate-parallelised.py",
     "Photonics/Photonics.canvas",
     "Manufacturing/README.md",
     "KTH/KTH Canvas.canvas",
-    "README.md",
     "KTH/KTH Tasks.md",
     "KTH/KTH Kanban.md",
     "Untitled 1.md",
