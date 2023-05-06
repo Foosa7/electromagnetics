@@ -154,11 +154,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 632.5
+    "width": 683.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +173,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "67a5c246a46d1be7",
+  "active": "89c72202ab81ed4f",
   "lastOpenFiles": [
     "README.md",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
