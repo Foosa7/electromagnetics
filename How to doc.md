@@ -1,3 +1,7 @@
+
+adding images: ![[HAtomOrbitals.png]]
+
+
 Incorporating Lean Agile principles into your study process using a Kanban board can help you manage your tasks more efficiently and adapt to changing priorities. Here are some steps to incorporate Lean Agile principles and suggestions for Kanban board titles:
 
 1.  Visualize your workflow: Divide your study tasks into stages and represent on Kanban board:

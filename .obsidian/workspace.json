@@ -4,22 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "2ba7128f41776f5d",
+        "id": "621a7560bf52b449",
         "type": "tabs",
         "children": [
           {
-            "id": "e85c89c78a194489",
+            "id": "8f3f45a66d096804",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "electromagnetics-master.canvas",
+                "viewState": {
+                  "x": -95,
+                  "y": -140,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "9b49618511ab6e5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/1. Planar Technology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e3d971f61edebee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,12 +92,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "3b82413708fed94e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources.md"
+                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md"
               }
             }
           },
@@ -173,9 +210,21 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "89c72202ab81ed4f",
+  "active": "44b111bd18fef184",
   "lastOpenFiles": [
+    "Semiconductor Physics/Device Fabrication Technology/1. Planar Technology.md",
+    "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
+    "How to doc.md",
     "README.md",
+    "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
+    "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained.md",
+    "Assets/device-fabrication-basic-steps.png",
+    "Semiconductor Physics/Device Fabrication Technology",
+    "electromagnetics-master.canvas",
+    "Semiconductor Physics/Device Fabrication Technology",
+    "Resources.md",
+    "orbitals.png",
+    "Semiconductor Physics/README.md",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Books/README.md",
     "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
@@ -184,24 +233,16 @@
     "Semiconductor Physics/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "KTH/Coursework.md",
     "Assets/HAtomOrbitals.png",
-    "Resources.md",
     "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
     "Assets/Quasi-Fermi-Level.png",
-    "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained.md",
     "Photonics/Intro to Optoelectronics and Photonics/Electronic band structure and band gap.md",
-    "orbitals.png",
     "orbitals 2.png",
     "orbitals 1.png",
     "Photonics/README.md",
     "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained",
-    "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
     "Assets/orbitals.png",
     "Assets",
-    "electromagnetics-master.canvas",
-    "How to doc.md",
     "Photonics/Intro to Optoelectronics and Photonics",
-    "Introduction to Optoelectronics and PhotonicsUntitled",
-    "computational-em/FDTD/transmission-line.py",
     "Photonics/Photonics.canvas",
     "Manufacturing/README.md",
     "KTH/KTH Canvas.canvas",
