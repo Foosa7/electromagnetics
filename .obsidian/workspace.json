@@ -189,12 +189,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 607.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +208,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "389609600d888e99",
+  "active": "67a5c246a46d1be7",
   "lastOpenFiles": [
     "Semiconductor Physics/Device Fabrication Technology/1. Planar Technology.md",
     "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
