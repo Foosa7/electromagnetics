@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
+                "file": "electromagnetics-master.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
+                "file": "electromagnetics-master.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md"
+                "file": "electromagnetics-master.canvas"
               }
             }
           },
@@ -190,12 +189,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 683.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,7 +208,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "44b111bd18fef184",
+  "active": "389609600d888e99",
   "lastOpenFiles": [
     "Semiconductor Physics/Device Fabrication Technology/1. Planar Technology.md",
     "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
