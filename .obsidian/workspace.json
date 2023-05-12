@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "electromagnetics-master.canvas",
+                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "electromagnetics-master.canvas",
+                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "electromagnetics-master.canvas"
+                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md"
               }
             }
           },
@@ -208,8 +208,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "67a5c246a46d1be7",
+  "active": "6e3d971f61edebee",
   "lastOpenFiles": [
+    "electromagnetics-master.canvas",
     "Semiconductor Physics/Device Fabrication Technology/1. Planar Technology.md",
     "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
     "How to doc.md",
@@ -218,7 +219,6 @@
     "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained.md",
     "Assets/device-fabrication-basic-steps.png",
     "Semiconductor Physics/Device Fabrication Technology",
-    "electromagnetics-master.canvas",
     "Semiconductor Physics/Device Fabrication Technology",
     "Resources.md",
     "orbitals.png",
