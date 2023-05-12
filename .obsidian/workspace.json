@@ -45,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c00d91bd96feab94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md"
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md"
               }
             }
           },
@@ -190,11 +202,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 607.5
+    "width": 607.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,11 +221,17 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "6e3d971f61edebee",
+  "active": "c00d91bd96feab94",
   "lastOpenFiles": [
+    "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
+    "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+    "Language/Portuguese",
+    "Language/German",
+    "Language/Italian",
+    "Language/Swedish",
+    "Language",
     "electromagnetics-master.canvas",
     "Semiconductor Physics/Device Fabrication Technology/1. Planar Technology.md",
-    "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
     "How to doc.md",
     "README.md",
     "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
@@ -227,8 +246,6 @@
     "Books/README.md",
     "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
     "Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
-    "Books",
-    "Semiconductor Physics/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "KTH/Coursework.md",
     "Assets/HAtomOrbitals.png",
     "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
@@ -237,10 +254,7 @@
     "orbitals 2.png",
     "orbitals 1.png",
     "Photonics/README.md",
-    "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained",
     "Assets/orbitals.png",
-    "Assets",
-    "Photonics/Intro to Optoelectronics and Photonics",
     "Photonics/Photonics.canvas",
     "Manufacturing/README.md",
     "KTH/KTH Canvas.canvas",
