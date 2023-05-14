@@ -40,9 +40,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f628cdb6934afe3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Italian/Resources.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Italian/Resources.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/Italian/Resources.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -185,12 +197,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 607.5,
-    "collapsed": true
+    "width": 607.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,11 +215,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "44b111bd18fef184",
+  "active": "67a5c246a46d1be7",
   "lastOpenFiles": [
+    "Language/German/Grammatik",
+    "Language/Italian/Grammatica",
+    "Language/Swedish/Grammatik",
     "Language/How to doc.md",
+    "Untitled.md",
     "Language/Italian/Resources.md",
-    "Untitled",
     "README.md",
     "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
     "electromagnetics-master.canvas",
@@ -229,7 +243,6 @@
     "Semiconductor Physics/README.md",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Books/README.md",
-    "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
     "KTH/Coursework.md",
     "Assets/HAtomOrbitals.png",
     "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
