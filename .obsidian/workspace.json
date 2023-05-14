@@ -16,8 +16,33 @@
                 "currentVersion": "1.2.8"
               }
             }
+          },
+          {
+            "id": "7f82fee0b206b5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/How to doc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a19c72840485ec31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/Italian/Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -92,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Language/Italian/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Language/Italian/Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Language/Italian/Resources.md"
+              }
             }
           },
           {
@@ -178,6 +206,10 @@
   },
   "active": "44b111bd18fef184",
   "lastOpenFiles": [
+    "Language/How to doc.md",
+    "Language/Italian/Resources.md",
+    "Untitled",
+    "README.md",
     "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
     "electromagnetics-master.canvas",
     "Semiconductor Physics/Device Fabrication Technology/1. Planar Technology.md",
@@ -188,19 +220,16 @@
     "Language/Swedish",
     "Language",
     "How to doc.md",
-    "README.md",
     "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
     "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained.md",
     "Assets/device-fabrication-basic-steps.png",
     "Semiconductor Physics/Device Fabrication Technology",
     "Semiconductor Physics/Device Fabrication Technology",
-    "Resources.md",
     "orbitals.png",
     "Semiconductor Physics/README.md",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Books/README.md",
     "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
-    "Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
     "KTH/Coursework.md",
     "Assets/HAtomOrbitals.png",
     "Photonics/Intro to Optoelectronics and Photonics/Quasi-Fermi Levels Explained.md",
