@@ -1,0 +1,25 @@
+
+- ciao - _famosa_ e molto usata. cosa significa hello o goodbye in italiano. Usato per _saltare_ una persona o piu persone. Sia di giorno che di sera quanto ci sin incontra e quando si va via in una situatione informale. Con cui abbiamo 
+- buongiorno - significa good morning o hello e si usa durante in giorno. Perche durante la sera usiamo buonasera formale
+- buonasera - significa good evening formale
+- arrivederci - sia di giorno che di sera o di notte ma formale. Informale ciao sempre ma formale buongiorno, buonasera, arrivederci
+- buona notte - significa good night ma attenzione solo quando siamo andati a dormire 4m
+- a dopo - see you later. usiamo a solo quando veramente vediamo questa persona o queste persone dopo piu tardi duranti la stessa giornata informale
+- come stai - informale how are you 
+- come sta - formale how are you
+- come va - generico how's it going
+- molto bene - very well 
+- bene - well
+- cosi cosi - so so
+- male - bad
+- scusa - informale; significa excuse me or i am sorry
+- scusi - formale; 
+- per favore - please
+- grazie - thank you
+- prego - you are welcome
+- vorrei.. - i would like: vorrei una pizza
+- quanto costa..? - quanto costa il libro how much is the book
+- quanto costano..? - quanto costano il libri? how much are the books
+- dov'e - where is dov'e il cinema
+- dove sono - where are
+- non ho capito - i don't understand

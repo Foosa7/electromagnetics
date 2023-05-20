@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Le 20 espressione piu importantiper principianti.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,11 +108,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -128,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Le 20 espressione piu importantiper principianti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Le 20 espressione piu importantiper principianti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Le 20 espressione piu importantiper principianti.md"
               }
             }
           },
@@ -196,12 +198,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 607.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,13 +217,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "67a5c246a46d1be7",
+  "active": "f628cdb6934afe3b",
   "lastOpenFiles": [
     "Language/German/Grammatik",
     "Language/Italian/Grammatica",
     "Language/Swedish/Grammatik",
     "Language/How to doc.md",
-    "Untitled.md",
+    "Le 20 espressione piu importantiper principianti.md",
     "Language/Italian/Resources.md",
     "README.md",
     "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
