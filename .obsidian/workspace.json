@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to doc.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to doc.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How to doc.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to doc.md"
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md"
               }
             }
           },
@@ -167,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 621.5,
+    "width": 541.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -184,8 +183,9 @@
   },
   "active": "f628cdb6934afe3b",
   "lastOpenFiles": [
-    "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+    "Assets/OPC.jpg",
     "How to doc.md",
+    "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
     "Assets/lithography.png",
     "Language/How to doc.md",
     "Language/Italian/Resources.md",
