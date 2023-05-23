@@ -18,3 +18,6 @@ Incorporating Lean Agile principles into your study process using a Kanban board
 7.  Incorporate feedback loops: Use your experiences and the feedback you receive from instructors, classmates, or study partners to inform your study priorities and make adjustments to your workflow.    
 
 Using these Lean Agile principles along with a Kanban board can help you manage your study tasks more effectively, enabling you to adapt to changes, focus on high-priority tasks, and continuously improve your study process.
+
+
+1. Make phases and have a life cycle

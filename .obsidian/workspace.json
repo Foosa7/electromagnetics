@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+                "file": "How to doc.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+                "file": "How to doc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+                "file": "How to doc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md"
+                "file": "How to doc.md"
               }
             }
           },
@@ -184,8 +184,8 @@
   },
   "active": "f628cdb6934afe3b",
   "lastOpenFiles": [
-    "How to doc.md",
     "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+    "How to doc.md",
     "Assets/lithography.png",
     "Language/How to doc.md",
     "Language/Italian/Resources.md",
