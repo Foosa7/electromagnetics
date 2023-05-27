@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "621a7560bf52b449",
+        "id": "ac28453337be4450",
         "type": "tabs",
         "children": [
           {
-            "id": "f628cdb6934afe3b",
+            "id": "5d95fbd4d483cbcd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+                "file": "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+                "file": "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md"
+                "file": "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf"
               }
             }
           },
@@ -181,11 +177,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "f628cdb6934afe3b",
+  "active": "44b111bd18fef184",
   "lastOpenFiles": [
+    "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+    "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Assets/OPC.jpg",
     "How to doc.md",
-    "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
     "Assets/lithography.png",
     "Language/How to doc.md",
     "Language/Italian/Resources.md",
@@ -208,7 +205,6 @@
     "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
     "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained.md",
     "Assets/device-fabrication-basic-steps.png",
-    "Semiconductor Physics/Device Fabrication Technology",
     "Semiconductor Physics/Device Fabrication Technology",
     "orbitals.png",
     "Semiconductor Physics/README.md",
