@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "76ee69a79d003e91",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5,
-    "collapsed": true
+    "width": 586.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,7 +187,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "44b111bd18fef184",
+  "active": "76ee69a79d003e91",
   "lastOpenFiles": [
     "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
