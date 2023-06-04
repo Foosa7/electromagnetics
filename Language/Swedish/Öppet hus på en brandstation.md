@@ -1,0 +1,28 @@
+- manniskor 
+- barnfamilijer 
+- sa hang med
+- prova slacka brand
+- det brinner sranden 
+- en brandbil
+- en ambulans 
+- en gammal 
+- en brandbil 
+- flera brandbilar
+- i forasatet 
+- uppvisning
+- brinner 
+- matolja brinner
+- det ar en brand
+- brandmannen 
+- lagger po locket
+- lar dig hjart 
+- brostkorgen
+- imman 
+- lammer vi 
+- inbloasingar 
+- fortsaett 
+- stoet 
+- fortsaetter
+- Ar ni med?
+- slaecker branden
+- 
