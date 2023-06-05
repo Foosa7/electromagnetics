@@ -4,55 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8ba625ccf3e1f39c",
+        "id": "7c27066a8e977328",
         "type": "tabs",
         "children": [
           {
-            "id": "6f6ea02d64962059",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "99e37ca6668724d8",
+            "id": "af8fca1d90e304a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Swedish/README.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a5982d1d27683523",
+            "id": "1fce08dbc83941cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Swedish/Uppsatser/Uppsatser.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52356880575f8864",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md"
+                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md"
               }
             }
           },
@@ -199,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,17 +194,20 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "49f4578146f7c278",
+  "active": "44b111bd18fef184",
   "lastOpenFiles": [
+    "Semiconductor Physics/Siliwiz",
+    "Semiconductor Physics/Device Fabrication Technology/4..md",
+    "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+    "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
+    "Language/Swedish/Uppsatser/Uppsatser.md",
+    "Language/Swedish/README.md",
     "Semiconductor Physics/Device Fabrication Technology/1. Planar Technology.md",
     "README.md",
     "Untitled.canvas",
     "Language/Swedish/Öppet hus på en brandstation.md",
     "Untitled 1.canvas",
-    "Language/Swedish/Uppsatser/Uppsatser.md",
-    "Language/Swedish/README.md",
     "Language/Swedish/Uppsatser",
-    "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Assets/OPC.jpg",
     "How to doc.md",
@@ -237,7 +221,6 @@
     "Language/Italian/Grammatica",
     "Language/Swedish/Grammatik",
     "electromagnetics-master.canvas",
-    "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
     "Language/Portuguese",
     "Language/German",
     "Language/Italian",
@@ -262,7 +245,6 @@
     "KTH/KTH Tasks.md",
     "KTH/KTH Kanban.md",
     "Untitled 1.md",
-    "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
-    "Photonics/Metamaterials/How to get into metamaterials industry.md"
+    "Photonics/Silicon Photonics/How to get into silicon photonics industry.md"
   ]
 }
