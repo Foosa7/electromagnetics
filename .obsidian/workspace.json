@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d771407ee005ff2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semiconductor Physics/Siliwiz/Building blocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+                "file": "Semiconductor Physics/Siliwiz/Building blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+                "file": "Semiconductor Physics/Siliwiz/Building blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md"
+                "file": "Semiconductor Physics/Siliwiz/Building blocks.md"
               }
             }
           },
@@ -194,11 +207,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "44b111bd18fef184",
+  "active": "d771407ee005ff2e",
   "lastOpenFiles": [
+    "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
+    "Semiconductor Physics/Siliwiz/Building blocks.md",
     "Semiconductor Physics/Siliwiz",
     "Semiconductor Physics/Device Fabrication Technology/4..md",
-    "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
     "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
     "Language/Swedish/Uppsatser/Uppsatser.md",
     "Language/Swedish/README.md",
@@ -225,7 +239,6 @@
     "Language/German",
     "Language/Italian",
     "Language/Swedish",
-    "Language",
     "Photonics/Intro to Optoelectronics and Photonics/QM-101.md",
     "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained.md",
     "Assets/device-fabrication-basic-steps.png",
