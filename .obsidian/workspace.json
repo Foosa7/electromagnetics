@@ -32,15 +32,11 @@
             }
           },
           {
-            "id": "d771407ee005ff2e",
+            "id": "09f4b2dcbe794aff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Semiconductor Physics/Siliwiz/Building blocks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -119,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semiconductor Physics/Siliwiz/Building blocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semiconductor Physics/Siliwiz/Building blocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Semiconductor Physics/Siliwiz/Building blocks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 593.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +198,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d771407ee005ff2e",
+  "active": "09f4b2dcbe794aff",
   "lastOpenFiles": [
     "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
     "Semiconductor Physics/Siliwiz/Building blocks.md",
