@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
+                "file": "2023-06-07.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
+                "file": "2023-06-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
+                "file": "2023-06-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md"
+                "file": "2023-06-07.md"
               }
             }
           },
@@ -167,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5,
-    "collapsed": true
+    "width": 876.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +182,9 @@
   },
   "active": "09f4b2dcbe794aff",
   "lastOpenFiles": [
-    "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained.md",
     "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
+    "2023-06-07.md",
+    "Photonics/Intro to Optoelectronics and Photonics/Fermi Levels Explained.md",
     "Photonics/Intro to Optoelectronics and Photonics/1. Electronic band structure and band gap.md",
     "Photonics/Intro to Optoelectronics and Photonics/3. QM-101.md",
     "Semiconductor Physics/Siliwiz/Building blocks.md",
@@ -232,7 +231,6 @@
     "Manufacturing/README.md",
     "KTH/KTH Tasks.md",
     "KTH/KTH Kanban.md",
-    "Untitled 1.md",
-    "Photonics/Silicon Photonics/How to get into silicon photonics industry.md"
+    "Untitled 1.md"
   ]
 }
