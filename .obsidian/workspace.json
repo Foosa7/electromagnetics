@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Schrödinger Equation.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/4. Schrödinger Equation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3f54cfbbf6494da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Schrödinger Equation.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Schrödinger Equation.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/Schrödinger Equation.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md"
               }
             }
           },
@@ -181,10 +195,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "09f4b2dcbe794aff",
+  "active": "e3f54cfbbf6494da",
   "lastOpenFiles": [
+    "Photonics/Intro to Optoelectronics and Photonics/4. Schrödinger Equation.md",
+    "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
     "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
-    "Photonics/Intro to Optoelectronics and Photonics/Schrödinger Equation.md",
     "Photonics/Intro to Optoelectronics and Photonics/3. QM-101.md",
     "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
     "2023-06-07.md",
@@ -231,7 +246,6 @@
     "Assets/orbitals.png",
     "Photonics/Photonics.canvas",
     "Manufacturing/README.md",
-    "KTH/KTH Tasks.md",
-    "KTH/KTH Kanban.md"
+    "KTH/KTH Tasks.md"
   ]
 }
