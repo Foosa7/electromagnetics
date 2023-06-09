@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
+                "file": "Language/Swedish/Öppet hus på en brandstation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6fa79d07976aa860",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/Swedish/Vår lägenhet i Zadar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
+                "file": "Language/Swedish/Vår lägenhet i Zadar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
+                "file": "Language/Swedish/Vår lägenhet i Zadar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md"
+                "file": "Language/Swedish/Vår lägenhet i Zadar.md"
               }
             }
           },
@@ -175,11 +187,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 793.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +206,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "e3f54cfbbf6494da",
+  "active": "6fa79d07976aa860",
   "lastOpenFiles": [
+    "Language/Swedish/Öppet hus på en brandstation.md",
+    "Language/Swedish/Vår lägenhet i Zadar.md",
+    "Language/Swedish/Uppsatser/Uppsatser.md",
+    "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
     "Books/Max Yan - Electromagnetism Under 100 Pages 20221120.pdf",
     "Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
     "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
@@ -202,7 +219,6 @@
     "Books/Diode Lasers and Photonic Integrated Circuits, Second Edition (2012), Larry A. Coldren.pdf",
     "Untitled.canvas",
     "Photonics/Intro to Optoelectronics and Photonics/6. Two level systems.md",
-    "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
     "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
     "Photonics/Intro to Optoelectronics and Photonics/3. QM-101.md",
     "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
@@ -213,11 +229,9 @@
     "Semiconductor Physics/Siliwiz",
     "Semiconductor Physics/Device Fabrication Technology/4..md",
     "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
-    "Language/Swedish/Uppsatser/Uppsatser.md",
     "Language/Swedish/README.md",
     "Semiconductor Physics/Device Fabrication Technology/1. Planar Technology.md",
     "README.md",
-    "Language/Swedish/Öppet hus på en brandstation.md",
     "Untitled 1.canvas",
     "Language/Swedish/Uppsatser",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
@@ -233,7 +247,6 @@
     "Language/Italian/Grammatica",
     "Language/Swedish/Grammatik",
     "electromagnetics-master.canvas",
-    "Language/Portuguese",
     "Assets/device-fabrication-basic-steps.png",
     "orbitals.png",
     "Semiconductor Physics/README.md",
