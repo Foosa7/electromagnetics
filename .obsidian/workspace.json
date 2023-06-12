@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Photonics/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad7729aa4d21448f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
                 "mode": "source",
                 "source": false
@@ -20,30 +32,19 @@
             }
           },
           {
-            "id": "e3f54cfbbf6494da",
+            "id": "6e1ec7e6579f7d00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Swedish/Öppet hus på en brandstation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fa79d07976aa860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Language/Swedish/Vår lägenhet i Zadar.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5,
-    "collapsed": true
+    "width": 348.5
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -206,18 +206,23 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "09f4b2dcbe794aff",
+  "active": "6e1ec7e6579f7d00",
   "lastOpenFiles": [
-    "Photonics/Intro to Optoelectronics and Photonics/6. Two level systems.md",
+    "Photonics/Intro to Optoelectronics and Photonics/3. QM-101.md",
     "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
-    "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
+    "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
+    "Photonics/Metamaterials/How to get into metamaterials industry.md",
+    "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
+    "Photonics/Intro to Optoelectronics and Photonics/6. Two level systems.md",
+    "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
     "Photonics/Intro to Optoelectronics and Photonics/4. Schrödinger Equation.md",
+    "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
+    "Photonics/Intro to Optoelectronics and Photonics/1. Electronic band structure and band gap.md",
+    "Photonics/README.md",
+    "Untitled",
+    "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Language/Swedish/Öppet hus på en brandstation.md",
     "Language/Swedish/Vår lägenhet i Zadar.md",
-    "Photonics/Intro to Optoelectronics and Photonics/1. Electronic band structure and band gap.md",
-    "Photonics/Intro to Optoelectronics and Photonics/3. QM-101.md",
-    "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
-    "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
     "README.md",
     "How to doc.md",
     "electromagnetics-master.canvas",
@@ -229,7 +234,6 @@
     "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
     "Books/Diode Lasers and Photonic Integrated Circuits, Second Edition (2012), Larry A. Coldren.pdf",
     "Untitled.canvas",
-    "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
     "2023-06-07.md",
     "Semiconductor Physics/Siliwiz/Building blocks.md",
     "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
@@ -243,13 +247,9 @@
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Assets/OPC.jpg",
     "Assets/lithography.png",
-    "Language/How to doc.md",
-    "KTH/Coursework.md",
-    "Language/Italian/Le 20 espressione piu importantiper principianti.md",
     "KTH/KTH Canvas.canvas",
     "Language/German/Grammatik",
     "Language/Italian/Grammatica",
-    "Language/Swedish/Grammatik",
     "Assets/device-fabrication-basic-steps.png",
     "orbitals.png",
     "Assets/HAtomOrbitals.png",
