@@ -23,11 +23,9 @@
             "id": "24cb60fe062cb01b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
-                "mode": "source",
-                "source": false
+                "file": "Books/McQuarrie-The Kronig-Penney.pdf"
               }
             }
           }
@@ -90,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -107,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
+                "file": "Books/McQuarrie-The Kronig-Penney.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
+                "file": "Books/McQuarrie-The Kronig-Penney.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md"
+                "file": "Books/McQuarrie-The Kronig-Penney.pdf"
               }
             }
           },
@@ -197,9 +194,10 @@
   },
   "active": "24cb60fe062cb01b",
   "lastOpenFiles": [
-    "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
     "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
+    "Books/McQuarrie-The Kronig-Penney.pdf",
     "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
+    "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
     "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
     "KTH/Coursework.md",
     "Photonics/README.md",
@@ -230,7 +228,6 @@
     "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
     "Semiconductor Physics/Siliwiz",
     "Semiconductor Physics/Device Fabrication Technology/4..md",
-    "Semiconductor Physics/Device Fabrication Technology/2. Oxidation of Silicon.md",
     "Untitled 1.canvas",
     "Language/Swedish/Uppsatser",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
@@ -238,7 +235,6 @@
     "Assets/lithography.png",
     "KTH/KTH Canvas.canvas",
     "Language/German/Grammatik",
-    "Language/Italian/Grammatica",
     "Assets/device-fabrication-basic-steps.png",
     "orbitals.png",
     "Assets/HAtomOrbitals.png",
