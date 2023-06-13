@@ -8,29 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ad7729aa4d21448f",
+            "id": "24cb60fe062cb01b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "24cb60fe062cb01b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Books/McQuarrie-The Kronig-Penney.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/McQuarrie-The Kronig-Penney.pdf",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/McQuarrie-The Kronig-Penney.pdf",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/McQuarrie-The Kronig-Penney.pdf"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md"
               }
             }
           },
@@ -194,8 +183,9 @@
   },
   "active": "24cb60fe062cb01b",
   "lastOpenFiles": [
-    "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
     "Books/McQuarrie-The Kronig-Penney.pdf",
+    "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
+    "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
     "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
     "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
     "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
@@ -230,7 +220,6 @@
     "Semiconductor Physics/Device Fabrication Technology/4..md",
     "Untitled 1.canvas",
     "Language/Swedish/Uppsatser",
-    "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Assets/OPC.jpg",
     "Assets/lithography.png",
     "KTH/KTH Canvas.canvas",
