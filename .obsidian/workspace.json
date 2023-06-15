@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45af895d64fe87bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md"
               }
             }
           },
@@ -166,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 823.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +194,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "5665f3acfda6e0a8",
+  "active": "45af895d64fe87bc",
   "lastOpenFiles": [
-    "Papers/McQuarrie-The Kronig-Penney.pdf",
     "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
+    "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
+    "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
+    "KTH/Coursework.md",
+    "Papers/McQuarrie-The Kronig-Penney.pdf",
     "Papers",
     "Books/Untitled",
     "Papers/Revisiting the optical bandgap of Semiconductors.pdf",
@@ -191,7 +208,6 @@
     "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
     "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
     "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
-    "KTH/Coursework.md",
     "Photonics/README.md",
     "Photonics/Intro to Optoelectronics and Photonics/3. QM-101.md",
     "Photonics/Metamaterials/How to get into metamaterials industry.md",
@@ -200,7 +216,6 @@
     "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
     "Photonics/Intro to Optoelectronics and Photonics/4. Schrödinger Equation.md",
     "Photonics/Intro to Optoelectronics and Photonics/1. Electronic band structure and band gap.md",
-    "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Language/Swedish/Öppet hus på en brandstation.md",
     "Language/Swedish/Vår lägenhet i Zadar.md",
     "README.md",
