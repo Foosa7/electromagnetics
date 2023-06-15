@@ -187,12 +187,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 652.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +205,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "44b111bd18fef184",
+  "active": "67a5c246a46d1be7",
   "lastOpenFiles": [
     "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
     "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
