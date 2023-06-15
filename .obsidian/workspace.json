@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -191,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 652.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,17 +207,17 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "67a5c246a46d1be7",
+  "active": "3e001271db77acb6",
   "lastOpenFiles": [
-    "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
+    "Papers/Revisiting the optical bandgap of Semiconductors.pdf",
+    "Papers/McQuarrie-The Kronig-Penney.pdf",
+    "KTH/Coursework.md",
     "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
     "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
+    "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
     "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
-    "KTH/Coursework.md",
-    "Papers/McQuarrie-The Kronig-Penney.pdf",
     "Papers",
     "Books/Untitled",
-    "Papers/Revisiting the optical bandgap of Semiconductors.pdf",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
     "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
@@ -243,7 +245,6 @@
     "Untitled.canvas",
     "2023-06-07.md",
     "Semiconductor Physics/Siliwiz/Building blocks.md",
-    "Semiconductor Physics/Device Fabrication Technology/3. Lithography.md",
     "Semiconductor Physics/Siliwiz",
     "Untitled 1.canvas",
     "Assets/OPC.jpg",
