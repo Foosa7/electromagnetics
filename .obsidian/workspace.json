@@ -35,8 +35,12 @@
             "id": "3e001271db77acb6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md"
+              }
             }
           },
           {
@@ -201,26 +209,26 @@
   "active": "3e001271db77acb6",
   "lastOpenFiles": [
     "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
+    "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
+    "Photonics/Metamaterials/How to get into metamaterials industry.md",
+    "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
+    "Photonics/Intro to Optoelectronics and Photonics/1. Electronic band structure and band gap.md",
+    "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Papers/Revisiting the optical bandgap of Semiconductors.pdf",
     "Papers/McQuarrie-The Kronig-Penney.pdf",
     "KTH/Coursework.md",
     "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
     "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
-    "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Papers",
     "Books/Untitled",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
     "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
-    "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
     "Photonics/README.md",
     "Photonics/Intro to Optoelectronics and Photonics/3. QM-101.md",
-    "Photonics/Metamaterials/How to get into metamaterials industry.md",
-    "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
     "Photonics/Intro to Optoelectronics and Photonics/6. Two level systems.md",
     "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
     "Photonics/Intro to Optoelectronics and Photonics/4. Schrödinger Equation.md",
-    "Photonics/Intro to Optoelectronics and Photonics/1. Electronic band structure and band gap.md",
     "Language/Swedish/Öppet hus på en brandstation.md",
     "Language/Swedish/Vår lägenhet i Zadar.md",
     "README.md",
