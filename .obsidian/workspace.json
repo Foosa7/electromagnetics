@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md"
               }
             }
           },
@@ -208,12 +209,12 @@
   },
   "active": "3e001271db77acb6",
   "lastOpenFiles": [
+    "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
     "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
     "Photonics/Metamaterials/How to get into metamaterials industry.md",
     "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
     "Photonics/Intro to Optoelectronics and Photonics/1. Electronic band structure and band gap.md",
-    "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Papers/Revisiting the optical bandgap of Semiconductors.pdf",
     "Papers/McQuarrie-The Kronig-Penney.pdf",
     "KTH/Coursework.md",
