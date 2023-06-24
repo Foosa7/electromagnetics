@@ -37,14 +37,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
+                "file": "Language/Italian/Resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44dced31e8b1da61",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Language/Italian/zCanvas Italiano.canvas",
+                "viewState": {
+                  "x": -8.228428490360102,
+                  "y": -360.4429570011415,
+                  "zoom": -0.749289812546801
+                }
+              }
+            }
+          },
+          {
+            "id": "24f95e927ab778e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/Italian/Grammatica/Module 1/zExam.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -119,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
+                "file": "Language/Italian/Grammatica/Module 1/zExam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
+                "file": "Language/Italian/Grammatica/Module 1/zExam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md"
+                "file": "Language/Italian/Grammatica/Module 1/zExam.md"
               }
             }
           },
@@ -207,10 +233,18 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "3e001271db77acb6",
+  "active": "24f95e927ab778e7",
   "lastOpenFiles": [
-    "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
+    "Language/Italian/zCanvas Italiano.canvas",
+    "Language/Italian/Grammatica/Module 1/zExam.md",
+    "Language/Italian/Guide.md",
+    "Language/Italian/Grammatica/Module 1/Maschile o femminile.md",
+    "Language/Italian/Grammatica/Module 1",
+    "Language/Italian/Resources.md",
+    "Language/Grammar 101.md",
+    "Language/Italian/Le 20 espressione piu importantiper principianti.md",
     "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
+    "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
     "Photonics/Metamaterials/How to get into metamaterials industry.md",
     "Photonics/Silicon Photonics/How to get into silicon photonics industry.md",
@@ -233,19 +267,11 @@
     "Language/Swedish/Öppet hus på en brandstation.md",
     "Language/Swedish/Vår lägenhet i Zadar.md",
     "README.md",
-    "How to doc.md",
     "electromagnetics-master.canvas",
-    "Language/Italian/Grammatica/Maschile o femminile.md",
-    "Language/Italian/Resources.md",
-    "Language/Swedish/Uppsatser/Uppsatser.md",
     "Books/Max Yan - Electromagnetism Under 100 Pages 20221120.pdf",
     "Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
     "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
     "Books/Diode Lasers and Photonic Integrated Circuits, Second Edition (2012), Larry A. Coldren.pdf",
-    "Untitled.canvas",
-    "2023-06-07.md",
-    "Semiconductor Physics/Siliwiz/Building blocks.md",
-    "Semiconductor Physics/Siliwiz",
     "Untitled 1.canvas",
     "Assets/OPC.jpg",
     "Assets/lithography.png",
