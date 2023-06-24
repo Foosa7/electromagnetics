@@ -11,3 +11,4 @@ papa smuggen
 doppa brodet i sauset 
 man doppa nogot i nogot
 ett doppa
+tommbt på kaffea
