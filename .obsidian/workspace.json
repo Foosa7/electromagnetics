@@ -84,9 +84,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "472225673542a857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb1cbf0467cef68a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Language/Italian/zCanvas Italiano.canvas",
+                "viewState": {
+                  "x": -44.53708073920262,
+                  "y": -120.56910734202205,
+                  "zoom": -0.749289812546801
+                }
+              }
+            }
+          },
+          {
+            "id": "eb550c5211c589fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Language/Italian/Grammatica/Module 2/At the café.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -144,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -160,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
+                "file": "Language/Italian/Grammatica/Module 2/At the café.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
+                "file": "Language/Italian/Grammatica/Module 2/At the café.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md"
+                "file": "Language/Italian/Grammatica/Module 2/At the café.md"
               }
             }
           },
@@ -229,11 +269,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 474.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -248,19 +288,24 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "17ef9d7506f48471",
+  "active": "eb550c5211c589fe",
   "lastOpenFiles": [
+    "Language/Italian/zCanvas Italiano.canvas",
+    "Language/Italian/Grammatica/Module 2/At the café.md",
+    "Language/Italian/Grammatica/Module 2",
+    "Language/Italian/Resources.md",
+    "Language/Italian/Le 20 espressione piu importantiper principianti.md",
+    "Language/Italian/Guide.md",
+    "13. Bloch's theorem.md",
+    "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
+    "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
+    "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
     "Language/Swedish/Uppsatser/Uppsatser.md",
     "Language/Italian/Grammatica/Module 1/zExam.md",
     "Language/Italian/Grammatica/Module 1/C’è, ci sono (there is,  there are).md",
-    "Language/Italian/zCanvas Italiano.canvas",
-    "Language/Italian/Resources.md",
     "Language/Grammar 101.md",
     "Language/Italian/Grammatica/Module 1/Maschile o femminile.md",
-    "Language/Italian/Guide.md",
     "Language/Italian/Grammatica/Module 1",
-    "Language/Italian/Le 20 espressione piu importantiper principianti.md",
-    "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
     "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Photonics/Intro to Optoelectronics and Photonics/7. Fermi's golden rule.md",
     "Photonics/Metamaterials/How to get into metamaterials industry.md",
@@ -270,7 +315,6 @@
     "Papers/McQuarrie-The Kronig-Penney.pdf",
     "KTH/Coursework.md",
     "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
-    "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
     "Papers",
     "Books/Untitled",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
@@ -279,15 +323,10 @@
     "Photonics/README.md",
     "Photonics/Intro to Optoelectronics and Photonics/3. QM-101.md",
     "Photonics/Intro to Optoelectronics and Photonics/6. Two level systems.md",
-    "Photonics/Intro to Optoelectronics and Photonics/5. Function orthogonality.md",
-    "Photonics/Intro to Optoelectronics and Photonics/4. Schrödinger Equation.md",
-    "Language/Swedish/Öppet hus på en brandstation.md",
-    "Language/Swedish/Vår lägenhet i Zadar.md",
     "electromagnetics-master.canvas",
     "Books/Max Yan - Electromagnetism Under 100 Pages 20221120.pdf",
     "Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
     "Books/Introduction to Plasma Physics with Space, Laboratory and Astrophysical Applications-Cambridge University Press (2017) Donald A. Gurnett, Amitava Bhattacharjee.pdf",
-    "Books/Diode Lasers and Photonic Integrated Circuits, Second Edition (2012), Larry A. Coldren.pdf",
     "Untitled 1.canvas",
     "Assets/OPC.jpg",
     "Assets/lithography.png",
