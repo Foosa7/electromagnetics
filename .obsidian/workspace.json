@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Swedish/Uppsatser/Uppsatser.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Swedish/Uppsatser/Uppsatser.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Swedish/Uppsatser/Uppsatser.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/Swedish/Uppsatser/Uppsatser.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md"
               }
             }
           },
@@ -250,6 +250,7 @@
   },
   "active": "17ef9d7506f48471",
   "lastOpenFiles": [
+    "Language/Swedish/Uppsatser/Uppsatser.md",
     "Language/Italian/Grammatica/Module 1/zExam.md",
     "Language/Italian/Grammatica/Module 1/C’è, ci sono (there is,  there are).md",
     "Language/Italian/zCanvas Italiano.canvas",
