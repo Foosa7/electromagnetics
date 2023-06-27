@@ -123,9 +123,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2d8774c1e993b8eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fermi factor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -199,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
+                "file": "Fermi factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
+                "file": "Fermi factor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md"
+                "file": "Fermi factor.md"
               }
             }
           },
@@ -287,8 +299,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "eb550c5211c589fe",
+  "active": "2d8774c1e993b8eb",
   "lastOpenFiles": [
+    "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
+    "Fermi factor.md",
     "Language/Italian/Grammatica/Module 2/At the café.md",
     "Language/Italian/zCanvas Italiano.canvas",
     "Language/Italian/Grammatica/Module 2",
@@ -296,7 +310,6 @@
     "Language/Italian/Le 20 espressione piu importantiper principianti.md",
     "Language/Italian/Guide.md",
     "13. Bloch's theorem.md",
-    "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
     "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
     "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
     "Language/Swedish/Uppsatser/Uppsatser.md",
