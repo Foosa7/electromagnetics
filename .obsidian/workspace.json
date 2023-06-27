@@ -118,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Italian/Grammatica/Module 2/At the café.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Italian/Grammatica/Module 2/At the café.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Italian/Grammatica/Module 2/At the café.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/Italian/Grammatica/Module 2/At the café.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md"
               }
             }
           },
@@ -273,7 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5,
+    "width": 787.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -290,8 +289,8 @@
   },
   "active": "eb550c5211c589fe",
   "lastOpenFiles": [
-    "Language/Italian/zCanvas Italiano.canvas",
     "Language/Italian/Grammatica/Module 2/At the café.md",
+    "Language/Italian/zCanvas Italiano.canvas",
     "Language/Italian/Grammatica/Module 2",
     "Language/Italian/Resources.md",
     "Language/Italian/Le 20 espressione piu importantiper principianti.md",
