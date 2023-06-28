@@ -76,3 +76,41 @@ Equilibrium refers to a state where no external influences are present, while no
 The difference between the Fermi factors of the valence and conduction bands, determining the sign of the absorption coefficient.
 
 Please note that this summary provides a condensed overview of the key points and important concepts discussed in the lecture transcript. For a comprehensive understanding, referring to the original transcript is recommended, as it may contain additional details and examples.
+
+# Fermi Inversion Factor
+
+The lecture discusses the Fermi inversion factor and its role in the absorption equation. Here are the key points and important concepts discussed:
+
+## Absorption Equation
+
+The absorption as a function of photon energy is given by the product of the absorption coefficient (alpha naught) and the Fermi inversion factor (FV - FC). The absorption coefficient was derived in previous videos, and the Fermi inversion factor modulates the absorption.
+
+## Fermi Inversion Factor
+
+The Fermi inversion factor is composed of two terms: FV (Fermi factor for the valence band) and FC (Fermi factor for the conduction band). Together, they form the Fermi inversion factor.
+
+## Relation to Gain
+
+While some people invert the Fermi inversion factor to obtain gain as a function of photon energy, the lecture emphasizes that working with the absorption coefficient is more intuitive at this stage.
+
+## Determining Fermi Factors
+
+To determine the Fermi factors (FV and FC) as a function of photon energy, it is necessary to find the values of e1 and e2, which are related to the momentum (K) at which the interaction occurs. The lecture defines e1 and e2 in terms of kinetic energy and establishes a reference point (e=0) at the valence band edge.
+
+## Photon Energy Relation
+
+The lecture establishes that the photon energy is equal to the difference between e2 and e1. By assuming a reference point at the valence band edge, e2 and e1 can be expressed in terms of the band gap energy (EG), the photon energy, and the reduced mass.
+
+## Zero Crossing
+
+The Fermi inversion factor can be negative or zero. The zero crossing is mathematically determined by the numerator of the factor. The lecture presents an equation in the form of e^x - 1 = 0, where x is related to the photon energy and the difference between the Fermi levels (Delta EF).
+
+## Absorption and Gain
+
+For small photon energies, the Fermi inversion factor can result in negative absorption or gain. At the crossover point when the photon energy equals the Fermi level splitting (Delta EF), the Fermi factor becomes positive. For larger photon energies, absorption is always observed.
+
+## Importance in Optoelectronics
+
+The Fermi level splitting (Delta EF) determines whether absorption or gain occurs. It is a central quantity of importance in optoelectronics.
+
+These concepts provide a foundation for further exploration of the Fermi inversion factor and its implications in optoelectronic systems.
