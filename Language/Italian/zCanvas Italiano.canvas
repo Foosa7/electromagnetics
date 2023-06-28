@@ -3,10 +3,14 @@
 		{"type":"text","text":"## Module 1: Basics and Introduction\n\n1. Italian Phrases for Beginners\n2. Masculine and Feminine\n3. Singular and Plural\n4. The Alphabet\n5. How to Use \"How do you say?\" and \"How do you spell?\"","id":"c6c0d602c3190e70","x":-360,"y":-800,"width":500,"height":240},
 		{"type":"text","text":"## Module 2: Articles and Nouns 6. Indefinite Articles (un, uno, una, un')\n\n7. Definite Articles (Part 1)\n8. Definite Articles (Part 2)\n9. Places in Town\n10. Christmas in Italy\n11. New Year's Eve in Italy\n12. Months and Dates","id":"a6aea08343498572","x":-360,"y":-480,"width":500,"height":280},
 		{"type":"text","text":"## Module 3: Verbs and Expressions 13. How to Use the Verb \"avere\" (to have)\n\n14. How to Use the Verb \"essere\" (to be)\n15. The Verb \"to like\" (Part 1 - \"Mi piace / mi piacciono\")\n16. The Verb \"fare\"\n17. The Present Tense (Part 1 - Regular Verbs in -are and -ere)\n18. The Present Tense (Part 2 - Regular Verbs in -ire)\n19. The Present Tense (Part 3 - Irregular Verbs)\n20. Dovere, Potere, Volere (must, can, want)\n21. Aver bisogno di (need)\n22. Adverbs of Frequency (sempre, spesso, qualche volta, mai)\n23. Asking Questions (Part 1 - Dove? Quando? Come? Perché? Che cosa?)\n24. Asking Questions (Part 2 - Chi? Quale? Quanto?)","id":"8c960dd669555a32","x":-360,"y":-120,"width":500,"height":460},
-		{"type":"file","file":"Language/Italian/Guide.md","id":"0d701a91db7ac943","x":-1040,"y":-480,"width":400,"height":400}
+		{"type":"file","file":"Language/Italian/Guide.md","id":"0d701a91db7ac943","x":-1040,"y":-480,"width":400,"height":400},
+		{"id":"2723624dcbd0feea","x":220,"y":-710,"width":250,"height":60,"type":"text","text":""},
+		{"type":"text","text":"","id":"b6d91e2ca6bd7e53","x":220,"y":-370,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"cf8fe105a4b78870","fromNode":"c6c0d602c3190e70","fromSide":"bottom","toNode":"a6aea08343498572","toSide":"top"},
-		{"id":"ecda5e8549cb8cac","fromNode":"a6aea08343498572","fromSide":"bottom","toNode":"8c960dd669555a32","toSide":"top"}
+		{"id":"ecda5e8549cb8cac","fromNode":"a6aea08343498572","fromSide":"bottom","toNode":"8c960dd669555a32","toSide":"top"},
+		{"id":"197fcc6fed2579ce","fromNode":"c6c0d602c3190e70","fromSide":"right","toNode":"2723624dcbd0feea","toSide":"left"},
+		{"id":"2c7101e6f206772b","fromNode":"a6aea08343498572","fromSide":"right","toNode":"b6d91e2ca6bd7e53","toSide":"left"}
 	]
 }

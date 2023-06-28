@@ -154,7 +154,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/15. Carrier Density.md",
+                "file": "Language/Swedish/Uppsatser/Uppsatser.md",
                 "mode": "source",
                 "source": false
               }
@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 322.5,
+    "collapsed": true
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -235,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/15. Carrier Density.md",
+                "file": "Language/Swedish/Uppsatser/Uppsatser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/15. Carrier Density.md",
+                "file": "Language/Swedish/Uppsatser/Uppsatser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/15. Carrier Density.md"
+                "file": "Language/Swedish/Uppsatser/Uppsatser.md"
               }
             }
           },
@@ -323,10 +324,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "44b111bd18fef184",
+  "active": "7dd9629d13110ad5",
   "lastOpenFiles": [
-    "Photonics/Intro to Optoelectronics and Photonics/14. Bloch's theorem.md",
+    "KTH/KTH Canvas.canvas",
+    "Language/Italian/zCanvas Italiano.canvas",
+    "Language/Italian/Guide.md",
     "Photonics/Intro to Optoelectronics and Photonics/15. Carrier Density.md",
+    "Photonics/Intro to Optoelectronics and Photonics/14. Bloch's theorem.md",
     "Photonics/Intro to Optoelectronics and Photonics/13. Fermi factor.md",
     "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Resources.md",
@@ -334,11 +338,9 @@
     "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
     "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
     "Language/Italian/Grammatica/Module 2/At the café.md",
-    "Language/Italian/zCanvas Italiano.canvas",
     "Language/Italian/Grammatica/Module 2",
     "Language/Italian/Resources.md",
     "Language/Italian/Le 20 espressione piu importantiper principianti.md",
-    "Language/Italian/Guide.md",
     "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
     "Language/Swedish/Uppsatser/Uppsatser.md",
     "Language/Italian/Grammatica/Module 1/zExam.md",
@@ -352,13 +354,12 @@
     "Photonics/Intro to Optoelectronics and Photonics/1. Electronic band structure and band gap.md",
     "Papers/Revisiting the optical bandgap of Semiconductors.pdf",
     "Papers/McQuarrie-The Kronig-Penney.pdf",
-    "Language/KTH/Coursework.md",
+    "KTH/Coursework.md",
     "Photonics/Intro to Optoelectronics and Photonics/9. Band Structure.md",
     "Papers",
     "Books/Untitled",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
-    "Photonics/README.md",
     "electromagnetics-master.canvas",
     "Books/Max Yan - Electromagnetism Under 100 Pages 20221120.pdf",
     "Books/Electromagnetic and Photonic Simulation for the Beginner_ Finite-Difference Frequency-Domain in MATLAB (Applied Photonics Library)(2022) Rumpf, Raymond C.pdf",
@@ -366,7 +367,6 @@
     "Untitled 1.canvas",
     "Assets/OPC.jpg",
     "Assets/lithography.png",
-    "Language/KTH/KTH Canvas.canvas",
     "Assets/device-fabrication-basic-steps.png",
     "orbitals.png",
     "Assets/HAtomOrbitals.png",
