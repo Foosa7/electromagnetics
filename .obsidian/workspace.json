@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fermi factor.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi factor.md",
                 "mode": "source",
                 "source": false
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fermi factor.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi factor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fermi factor.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi factor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fermi factor.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi factor.md"
               }
             }
           },
@@ -302,7 +302,9 @@
   "active": "2d8774c1e993b8eb",
   "lastOpenFiles": [
     "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
-    "Fermi factor.md",
+    "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
+    "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
+    "Photonics/Intro to Optoelectronics and Photonics/13. Fermi factor.md",
     "Language/Italian/Grammatica/Module 2/At the café.md",
     "Language/Italian/zCanvas Italiano.canvas",
     "Language/Italian/Grammatica/Module 2",
@@ -311,7 +313,6 @@
     "Language/Italian/Guide.md",
     "13. Bloch's theorem.md",
     "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
-    "Photonics/Intro to Optoelectronics and Photonics/11. Absorption Coefficient Calculation.md",
     "Language/Swedish/Uppsatser/Uppsatser.md",
     "Language/Italian/Grammatica/Module 1/zExam.md",
     "Language/Italian/Grammatica/Module 1/C’è, ci sono (there is,  there are).md",
@@ -331,7 +332,6 @@
     "Books/Untitled",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
     "Photonics/Intro to Optoelectronics and Photonics/8. Stimulated Emission.md",
-    "Photonics/Intro to Optoelectronics and Photonics/2. Fermi and Quasi-Fermi Levels Explained.md",
     "Photonics/README.md",
     "Photonics/Intro to Optoelectronics and Photonics/3. QM-101.md",
     "Photonics/Intro to Optoelectronics and Photonics/6. Two level systems.md",
