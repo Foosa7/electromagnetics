@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi factor.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi factor.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,14 +154,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Language/Swedish/Uppsatser/Uppsatser.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/15. Carrier Density.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ffc90de1a7c10e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -219,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "be3ec28a9eb6836e",
@@ -236,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Language/Swedish/Uppsatser/Uppsatser.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Language/Swedish/Uppsatser/Uppsatser.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Language/Swedish/Uppsatser/Uppsatser.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md"
               }
             }
           },
@@ -309,7 +320,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 769.5,
+    "width": 273.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -324,14 +335,16 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "7dd9629d13110ad5",
+  "active": "7ffc90de1a7c10e0",
   "lastOpenFiles": [
+    "Photonics/Intro to Optoelectronics and Photonics/15. Carrier Density.md",
+    "Photonics/Intro to Optoelectronics and Photonics/16. LASER.md",
+    "Language/Swedish/Uppsatser/Uppsatser.md",
     "KTH/KTH Canvas.canvas",
     "Language/Italian/zCanvas Italiano.canvas",
     "Language/Italian/Guide.md",
-    "Photonics/Intro to Optoelectronics and Photonics/15. Carrier Density.md",
     "Photonics/Intro to Optoelectronics and Photonics/14. Bloch's theorem.md",
-    "Photonics/Intro to Optoelectronics and Photonics/13. Fermi factor.md",
+    "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
     "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Resources.md",
     "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
@@ -342,7 +355,6 @@
     "Language/Italian/Resources.md",
     "Language/Italian/Le 20 espressione piu importantiper principianti.md",
     "Photonics/Intro to Optoelectronics and Photonics/10. Reduced density of states optical density of states.md",
-    "Language/Swedish/Uppsatser/Uppsatser.md",
     "Language/Italian/Grammatica/Module 1/zExam.md",
     "Language/Italian/Grammatica/Module 1/C’è, ci sono (there is,  there are).md",
     "Language/Grammar 101.md",
