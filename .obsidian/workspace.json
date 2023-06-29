@@ -166,7 +166,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/16. LASER.md",
                 "mode": "source",
                 "source": false
               }
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/16. LASER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
+                "file": "Photonics/Intro to Optoelectronics and Photonics/16. LASER.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md"
+                "file": "Photonics/Intro to Optoelectronics and Photonics/16. LASER.md"
               }
             }
           },
@@ -337,6 +337,7 @@
   },
   "active": "7ffc90de1a7c10e0",
   "lastOpenFiles": [
+    "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
     "Photonics/Intro to Optoelectronics and Photonics/15. Carrier Density.md",
     "Photonics/Intro to Optoelectronics and Photonics/16. LASER.md",
     "Language/Swedish/Uppsatser/Uppsatser.md",
@@ -344,7 +345,6 @@
     "Language/Italian/zCanvas Italiano.canvas",
     "Language/Italian/Guide.md",
     "Photonics/Intro to Optoelectronics and Photonics/14. Bloch's theorem.md",
-    "Photonics/Intro to Optoelectronics and Photonics/13. Fermi.md",
     "Photonics/Intro to Optoelectronics and Photonics/0. Intro to Optoelectronics and Photonics.md",
     "Resources.md",
     "Photonics/Intro to Optoelectronics and Photonics/12. Solar cell.md",
