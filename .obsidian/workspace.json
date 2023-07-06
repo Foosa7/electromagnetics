@@ -11,14 +11,11 @@
             "id": "bce015156cffa67c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Photonics/Photonics.canvas",
-                "viewState": {
-                  "x": 132.32014028279633,
-                  "y": 78.45949170100522,
-                  "zoom": -0.4166666666666667
-                }
+                "file": "Photonics/Metamaterials/How to get into metamaterials industry.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Photonics/Photonics.canvas",
+                "file": "Photonics/Metamaterials/How to get into metamaterials industry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Photonics/Photonics.canvas",
+                "file": "Photonics/Metamaterials/How to get into metamaterials industry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Photonics/Photonics.canvas"
+                "file": "Photonics/Metamaterials/How to get into metamaterials industry.md"
               }
             }
           },
@@ -186,6 +183,7 @@
   },
   "active": "bce015156cffa67c",
   "lastOpenFiles": [
+    "Photonics/Photonics.canvas",
     "KTH/Coursework.md",
     "Test words.md",
     "Photonics/Intro to Optoelectronics and Photonics/16. LASER.md",
@@ -233,7 +231,6 @@
     "Assets/Quasi-Fermi-Level.png",
     "orbitals 2.png",
     "orbitals 1.png",
-    "Assets/orbitals.png",
-    "Photonics/Photonics.canvas"
+    "Assets/orbitals.png"
   ]
 }
