@@ -11,11 +11,14 @@
             "id": "bce015156cffa67c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "KTH/Coursework.md",
-                "mode": "source",
-                "source": false
+                "file": "Photonics/Photonics.canvas",
+                "viewState": {
+                  "x": 132.32014028279633,
+                  "y": 78.45949170100522,
+                  "zoom": -0.4166666666666667
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KTH/Coursework.md",
+                "file": "Photonics/Photonics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KTH/Coursework.md",
+                "file": "Photonics/Photonics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KTH/Coursework.md"
+                "file": "Photonics/Photonics.canvas"
               }
             }
           },
@@ -183,6 +186,7 @@
   },
   "active": "bce015156cffa67c",
   "lastOpenFiles": [
+    "KTH/Coursework.md",
     "Test words.md",
     "Photonics/Intro to Optoelectronics and Photonics/16. LASER.md",
     "Photonics/Intro to Optoelectronics and Photonics/15. Carrier Density.md",
@@ -213,7 +217,6 @@
     "Photonics/Intro to Optoelectronics and Photonics/1. Electronic band structure and band gap.md",
     "Papers/Revisiting the optical bandgap of Semiconductors.pdf",
     "Papers/McQuarrie-The Kronig-Penney.pdf",
-    "KTH/Coursework.md",
     "Papers",
     "Books/Untitled",
     "Books/Chenming C. Hu - Modern Semiconductor Devices for Integrated Circuits-Pearson (2009).pdf",
